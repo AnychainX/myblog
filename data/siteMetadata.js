@@ -1,19 +1,19 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Yubraj Khatri - Software Engineer & Tech Writer',
-  author: 'Yubraj Khatri',
-  headerTitle: 'Yublog',
+  title: 'Henry Yim - Software Engineer & Tech Writer',
+  author: 'Henry Yim',
+  headerTitle: 'Hyblog',
   description:
-    'Software engineering insights, reliability systems, AI solutions, and critical system analysis by Yubraj Khatri. Deep dives into software quality, system architecture, and modern development practices.',
+    'Software engineering insights, reliability systems, AI solutions, and critical system analysis by Henry Yim. Deep dives into software quality, system architecture, and modern development practices.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://blog.yubrajkhatri.com.np',
+  siteUrl: 'https://myblog-liart-xi.vercel.app',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'address@yoursite.com',
   github: 'https://github.com',
-  x: 'https://x.com/YubrajK81639352',
+  x: 'https://x.com/anychainxyz',
   // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',

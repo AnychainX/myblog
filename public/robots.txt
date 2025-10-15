@@ -15,7 +15,7 @@ Allow: /*.css
 Allow: /*.js
 
 # Sitemap location
-Sitemap: https://blog.yubrajkhatri.com.np/sitemap.xml
+Sitemap: https://myblog-liart-xi.vercel.app/sitemap.xml
 
 # Crawl delay (optional - helps with server load)
 Crawl-delay: 1

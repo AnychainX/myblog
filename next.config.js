@@ -14,7 +14,7 @@ const ContentSecurityPolicy = `
   connect-src *;
   font-src 'self';
   frame-src giscus.app
-  frame-ancestors 'self' https://yubrajkhatri.com.np; 
+  frame-ancestors 'self' https://anychainx.vercel.app; 
 `
 
 const securityHeaders = [
