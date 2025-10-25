@@ -7,7 +7,7 @@ const siteMetadata = {
     'Software engineering insights, reliability systems, AI solutions, and critical system analysis by Henry Yim. Deep dives into software quality, system architecture, and modern development practices.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://myblog-liart-xi.vercel.app',
+  siteUrl: 'https://blog-anychainx.vercel.app',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',

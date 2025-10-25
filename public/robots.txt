@@ -15,7 +15,7 @@ Allow: /*.css
 Allow: /*.js
 
 # Sitemap location
-Sitemap: https://myblog-liart-xi.vercel.app/sitemap.xml
+Sitemap: https://blog-anychainx.vercel.app/sitemap.xml
 
 # Crawl delay (optional - helps with server load)
 Crawl-delay: 1
