@@ -1,18 +1,18 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Henry Yim - Software Engineer & Tech Writer',
-  author: 'Henry Yim',
+  title: 'AnychainX - Software Engineer & Tech Writer',
+  author: 'AnychainX',
   headerTitle: 'Hyblog',
   description:
-    'Software engineering insights, reliability systems, AI solutions, and critical system analysis by Henry Yim. Deep dives into software quality, system architecture, and modern development practices.',
+    'Software engineering insights, reliability systems, AI solutions, and critical system analysis by AnychainX. Deep dives into software quality, system architecture, and modern development practices.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog-anychainx.vercel.app',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  email: 'henryyim635@outlook.com',
+  github: 'https://github.com/anychainx',
   x: 'https://x.com/anychainxyz',
   // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
@@ -20,7 +20,7 @@ const siteMetadata = {
   linkedin: 'https://www.linkedin.com',
   threads: 'https://www.threads.net',
   instagram: 'https://www.instagram.com',
-  medium: 'https://medium.com',
+  medium: 'https://medium.com/@AnychainX',
   bluesky: 'https://bsky.app/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
